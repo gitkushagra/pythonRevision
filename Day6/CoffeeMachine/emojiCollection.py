@@ -1,0 +1,8 @@
+coffee_cup = "☕"
+water = "💧"
+milk = "🥛"
+coffee_bean = "🌱"
+money = "💰"
+error = "😔"
+userError = "🙈" 
+bye = "👋🏻"
